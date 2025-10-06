@@ -5,8 +5,11 @@
       <module fileurl="file://$PROJECT_DIR$/ATV/ATV.iml" filepath="$PROJECT_DIR$/ATV/ATV.iml" />
       <module fileurl="file://$PROJECT_DIR$/Arrays/Arrays.iml" filepath="$PROJECT_DIR$/Arrays/Arrays.iml" />
       <module fileurl="file://$PROJECT_DIR$/CURSO JAVA.iml" filepath="$PROJECT_DIR$/CURSO JAVA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ClasseseMetodos/ClasseseMetodos.iml" filepath="$PROJECT_DIR$/ClasseseMetodos/ClasseseMetodos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ForEach/ForEach.iml" filepath="$PROJECT_DIR$/ForEach/ForEach.iml" />
       <module fileurl="file://$PROJECT_DIR$/LacosRepeticao/LacosRepeticao.iml" filepath="$PROJECT_DIR$/LacosRepeticao/LacosRepeticao.iml" />
       <module fileurl="file://$PROJECT_DIR$/Matrizes/Matrizes.iml" filepath="$PROJECT_DIR$/Matrizes/Matrizes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ForEach/OrientacaoaObjeto/OrientacaoaObjeto.iml" filepath="$PROJECT_DIR$/ForEach/OrientacaoaObjeto/OrientacaoaObjeto.iml" />
     </modules>
   </component>
 </project>
